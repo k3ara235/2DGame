@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://cmgygbxrt5gg2"
+path="res://.godot/imported/explosion.wav-4659048b7bd087ae3d2abe34d4178371.sample"
+
+[deps]
+
+source_file="res://untitled folder/Assets/sounds/explosion.wav"
+dest_files=["res://.godot/imported/explosion.wav-4659048b7bd087ae3d2abe34d4178371.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0
